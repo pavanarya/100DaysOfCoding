@@ -1,3 +1,5 @@
+# "The secret to getting ahead is getting started..." ~ Mark Twain
+
 # 100DaysOfCoding (Not confined to 100)
 This is the repo for tracking my 100 days of coding challenge
 
