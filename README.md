@@ -1,7 +1,7 @@
 # 100DaysOfCoding
 This is the repo for tracking my 100 days of coding challenge
 
-# Here in this repo, I want to explore new technologies like Design Patterns, Docker, Elastic Search and SQL, Kubernates, Microservices, Domain Design Pattern, Streaming technologies like Apache Kafka, Kinesis Streams, and last but not least Python.
+# Here in this repo, I want to explore new technologies/engineering patterns like Design Patterns, Docker, Elastic Search and SQL, Kubernates, Microservices, Domain Design Pattern, Streaming technologies like Apache Kafka, Kinesis Streams, and last but not least Python.
 
 So I know covering these many technologies in 100 days might be an over target. But.............
 
