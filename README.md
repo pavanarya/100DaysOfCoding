@@ -20,8 +20,10 @@ For example lets say I am breaking 1000s of documents(Text) into terms and the r
 
 Also many concepts like Multi threading needs to be covered. For example If we take the case of Kafka, How does this store data internally and how subscribers are actually getting data. Whats the science behind this? So I'll try to implement such algorithms.
 
-# So Is 100 days going to be sufficient?
+# Is 100 days going to be sufficient?
 Obviously Nooooooooooooooooooooooooo. But this challenge is to build strong learning habits and motivate myself to tackle new challenges and understanding internals. 100 is just a number but once I am able to make it as a habbit. Then days doesnt count :)
+
+# So my take away from this challenge is to learn new tech stack and along with that understanding its internals.
 
 Thanks,
 Pavan
