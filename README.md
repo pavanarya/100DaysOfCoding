@@ -1,4 +1,4 @@
-# 100DaysOfCoding
+# 100DaysOfCoding (Not confined to 100)
 This is the repo for tracking my 100 days of coding challenge
 
 # Here in this repo, I want to explore new technologies/engineering patterns like Design Patterns, Docker, Elastic Search and SQL, Kubernates, Microservices, Domain Design Pattern, Streaming technologies like Apache Kafka, Kinesis Streams, and last but not least Python.
@@ -10,8 +10,8 @@ So I know covering these many technologies in 100 days might be an over target. 
 
 Nothing has benefited my life more than shooting for the moon and dreaming enormously big dreams. When you dream big and shoot for the moon, you are forcing yourself to get out of your comfort zone.
 
-And more over I am comfortable with many of these technologies mentioned here. But wanted to go in depth.
-I am also thinking of implementing a similar kind of technology might not be that big but to get some idea on how they work.
+And more over I am comfortable with many of these technologies mentioned here. But wanted to go in depth and at the same time brush up my basics.
+I am also thinking of implementing a similar kind of algorithms (might not be that big) but to get some idea on how they work.
 For example Elastic search internally uses Lucene and backbone of Lucene are Terms, Term Frequencies. Let's say, I have a string like "Pavan is good and he is passionate about technology".
 So Lucene will internally break these things into terms and also maintain them as an index and points to all docs a keyword is present in it.
 So I'll try to implement similar kind of technology/algorithms when learning these things. So this way I can cover some areas of algorithms and basics.
