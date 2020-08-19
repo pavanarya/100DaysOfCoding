@@ -29,3 +29,7 @@ Obviously Nooooooooooooooooooooooooo. But this challenge is to build strong lear
 
 Thanks,
 Pavan
+
+# Day1(19-08-2020): Understanding Window Functions and Over Clause on Aggregate functions:
+Today I did brush up my skills on some basic of SQL server dealing with Over clause and Window frame on Aggregate functions.
+https://www.youtube.com/watch?v=CvVenuVUqto
