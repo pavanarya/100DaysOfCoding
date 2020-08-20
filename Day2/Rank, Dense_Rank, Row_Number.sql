@@ -22,10 +22,13 @@ Select *,Rank() Over(Partition by Gender order by salary desc) as [Rank] from em
 select * from CTE where [Rank]=5
 
 
-Select *,Rank() Over(Partition by Gender order by salary desc) as [Rank] from employees ;
+Select *,Rank() Over(Partition by Gender,salary,Name order by salary desc) as [Rank] from employees ;
 
 
-Select *,NTILE(salary) Over(Partition by Gender order by salary desc) as [Rank] from employees ;
+Select *,NTILE(2) Over(Partition by Gender order by salary desc) as [Rank] from employees ;
+
+Select *,NTILE(3) Over(order by salary desc) as [Rank] from employees ;
+
 
 with CTE as(
 Select *,Rank() Over(Partition by Gender order by salary desc) as [Rank] from employees )
