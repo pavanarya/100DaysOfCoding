@@ -33,3 +33,7 @@ Pavan
 # Day1(19-08-2020): Understanding Window Functions and Over Clause on Aggregate functions:
 Today I did brush up my skills on some basic of SQL server dealing with Over clause and Window frame on Aggregate functions.
 https://www.youtube.com/watch?v=CvVenuVUqto
+
+# Day2(20-08-2020): Understanding Window Functions like Rank, Dense_Rank, Row_Numer
+Also we saw like how to get employees with specific ranks
+https://www.youtube.com/watch?v=CcvGAov-iYU
