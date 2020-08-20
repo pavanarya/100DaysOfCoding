@@ -35,7 +35,7 @@ Today I did brush up my skills on some basic of SQL server dealing with Over cla
 https://www.youtube.com/watch?v=CvVenuVUqto
 
 # Day2(20-08-2020): Understanding Window Functions like Rank, Dense_Rank, Row_Numer, NTile
-Also we saw like how to get employees with specific ranks.
+Also we saw like how to get employees with specific ranks. Also deleting duplicate records without identity column
 
 https://www.youtube.com/watch?v=CcvGAov-iYU
 
